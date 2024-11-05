@@ -103,6 +103,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+alias cls="clear"
+
 alias update="sudo dnf update -y"
 
 # ~/.zshrc file for zsh interactive shells.
